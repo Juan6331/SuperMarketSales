@@ -7,7 +7,7 @@ Una cadena de supermercados con 3 sucursales en Myanmar necesitaba entender qué
 segmento de clientes generaba mayor revenue y en qué horarios se concentraban las ventas,
 para optimizar staffing y campañas de fidelización.
 ## ❓ Pregunta analítica
-> ¿Qué características del cliente y del contexto de compra predicen un ticket más alto?
+> Qué patrones de compra y características del cliente están asociados con un ticket más alto en cada sucursal?
 ## 🔧 Herramientas y proceso
 - **Python** (pandas, numpy) → Limpieza y transformación de datos
 - **Matplotlib / Seaborn** → Visualización de distribuciones y tendencias
